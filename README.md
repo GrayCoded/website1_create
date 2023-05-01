@@ -17,7 +17,7 @@
 
  - Once loaded
  - When you first load up the webiste you will be presented with the following image
- - ![](assets/SCREENSHOTS/Screenshot%20Navbar%20and%20Header.png)
+ - ![](assets/SCREENSHOTS/Screenshot%202023-05-01%20at%204.34.21%20PM.png)
  - Once here you can simply navigate to to the 3 linked menu options in the following images
  - ![](assets/SCREENSHOTS/Screenshot%202023-05-01%20at%203.58.39%20PM.png) 
  - ![](assets/SCREENSHOTS/Screenshot%202023-05-01%20at%203.59.29%20PM.png)
